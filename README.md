@@ -15,10 +15,14 @@ Since the **Probability of Two (random) Integers Being [Coprime][Coprime integer
 We can generate lots of numbers and calculate π by:
 ![formula 2](http://i.imgur.com/5Ksi47K.gif "\pi = \sqrt{\frac{6}{x}}")
 
-Watch [Matt Parker]: [http://standupmaths.com/] Generating π from 1,000 random numbers by rolling a dice on [YouTube][Generating π from 1,000 random numbers]
+Watch [Matt Parker] generating π from 1,000 random numbers by rolling a dice on [YouTube][Generating π from 1,000 random numbers]
 
 [Pi]: https://en.wikipedia.org/wiki/Pi
 [Pi Day]: https://en.wikipedia.org/wiki/Pi_Day
 [Coprime integers]: https://en.wikipedia.org/wiki/Coprime_integers
-[YouTube]: https://www.youtube.com/watch?v=ESU4KdRLzu0
 [Proof and demonstration]: http://www.cut-the-knot.org/m/Probability/TwoCoprime.shtml
+[YouTube]: https://www.youtube.com/watch?v=ESU4KdRLzu0
+[Matt Parker]: http://standupmaths.com/
+
+## Aknologments
+Matt Parker
