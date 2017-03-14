@@ -1,6 +1,6 @@
 # Unusual way to generate π: Generating Pi from random numbers
 
-The purpose of this repo is to gather (programming) solutions for the peculiar procedure for generating / achieving [π (Pi)][Pi] that **Matt Parker** presented.
+The purpose of this repo is to gather (programming) solutions for the peculiar procedure for generating / achieving [π (Pi)][Pi] that [Matt Parker] presented.
 
 ## Why
 1. In commemoration for the 2017 [Pi Day].
@@ -14,7 +14,7 @@ Since the **Probability of Two (random) Integers Being [Coprime][Coprime integer
 We can generate lots of numbers and calculate π by:
 ![formula 2](http://i.imgur.com/5Ksi47K.gif "\pi = \sqrt{\frac{6}{x}}")
 
-Watch [Matt Parker] generating π from 1,000 random numbers by rolling a dice on [YouTube][Generating π from 1,000 random numbers]
+Watch Matt Parker generating π from 1,000 random numbers by rolling a dice on [YouTube]
 
 ## Aknologments
 All solutions are from these users (in no particular order), some are quite efficient others not so much. Regardless thanks very much.
@@ -40,11 +40,20 @@ Chris Pedro
 Alex Walters
 Mark Johnson
 Clark Cox
+navkums
+Bebopity
+GLaDHuRriCAn
+Tom Spink
+seevernet1
+Cody Woodard
+JustForFunc
 
+
+**Happy Pi Day!﻿**
 
 [Pi]: https://en.wikipedia.org/wiki/Pi
 [Pi Day]: https://en.wikipedia.org/wiki/Pi_Day
 [Coprime integers]: https://en.wikipedia.org/wiki/Coprime_integers
 [Proof and demonstration]: http://www.cut-the-knot.org/m/Probability/TwoCoprime.shtml
-[video]: https://www.youtube.com/watch?v=ESU4KdRLzu0
+[YouTube]: https://www.youtube.com/watch?v=ESU4KdRLzu0
 [Matt Parker]: http://standupmaths.com/
