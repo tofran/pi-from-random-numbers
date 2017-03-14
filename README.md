@@ -26,3 +26,14 @@ Watch [Matt Parker] generating π from 1,000 random numbers by rolling a dice on
 
 ## Aknologments
 Matt Parker
+Torfi Þorgrímsson
+TheWioreks
+Alyan Zahid
+Andriamanitra
+Bendik Mihle Hansen
+Buttercak3
+Ecrou Ecrouisseur
+Georgi Iliev
+Gerard Kool
+Pedro Sousa
+Bengineer8
