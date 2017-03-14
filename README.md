@@ -19,34 +19,34 @@ Watch Matt Parker generating π from 1,000 random numbers by rolling a dice on [
 ## Aknologments
 All solutions are from these users (in no particular order), some are quite efficient others not so much. Regardless thanks very much.
 
-Matt Parker
-Torfi Þorgrímsson
-TheWioreks
-Alyan Zahid
-Andriamanitra
-Bendik Mihle Hansen
-Buttercak3
-Ecrou Ecrouisseur
-Georgi Iliev
-Gerard Kool
-Pedro Sousa
-Bengineer8
-梁瑋瀚
-TheWioreks
-LaugeRønberg
-Justin Murtagh
-Ando Bando
-Chris Pedro
-Alex Walters
-Mark Johnson
-Clark Cox
-navkums
-Bebopity
-GLaDHuRriCAn
-Tom Spink
-seevernet1
-Cody Woodard
-JustForFunc
+* Matt Parker
+* Torfi Þorgrímsson
+* TheWioreks
+* Alyan Zahid
+* Andriamanitra
+* Bendik Mihle Hansen
+* Buttercak3
+* Ecrou Ecrouisseur
+* Georgi Iliev
+* Gerard Kool
+* Pedro Sousa
+* Bengineer8
+* 梁瑋瀚
+* TheWioreks
+* LaugeRønberg
+* Justin Murtagh
+* Ando Bando
+* Chris Pedro
+* Alex Walters
+* Mark Johnson
+* Clark Cox
+* navkums
+* Bebopity
+* GLaDHuRriCAn
+* Tom Spink
+* seevernet1
+* Cody Woodard
+* JustForFunc
 
 
 **Happy Pi Day!﻿**
