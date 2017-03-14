@@ -1,9 +1,9 @@
-# Unusual way to generate π: Generating Pi from random numbers
+# Unusual way to achieve π: Generating Pi from random numbers
 
 The purpose of this repo is to gather (programming) solutions for the peculiar procedure for generating / achieving [π (Pi)][Pi] that [Matt Parker] presented in [this video][Video].
 
 ## Why
-1. In commemoration for the 2017 [Pi Day].
+1. In commemoration for [Pi Day] 2017.
 2. Having fun.
 3. No apparent logic reason.
 
@@ -18,7 +18,7 @@ We can generate lots of numbers and calculate π by:
 
 Watch Matt Parker generating π from 1,000 random numbers by rolling a dice on [here][Video full].
 
-## Aknologments
+## Acknowledgments
 All solutions are from these users (in no particular order), some are quite efficient others not so much. Regardless thanks very much.
 
 * Matt Parker
@@ -49,7 +49,16 @@ All solutions are from these users (in no particular order), some are quite effi
 * seevernet1
 * Cody Woodard
 * JustForFunc
-
+* John Lindstedt
+* Erik Lindemann
+* Altoids The Destroyer
+* limzykenneth
+* MDuh Gaming
+* QuomoZ
+* elijah finn
+* Josh Grigonis
+* wHiTEY 542
+* Bryan Ng
 
 **Happy Pi Day!﻿**
 
