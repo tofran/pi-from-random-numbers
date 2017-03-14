@@ -1,10 +1,9 @@
 # Unusual way to generate π: Generating Pi from random numbers
 
-## Purpose
 The purpose of this repo is to gather (programming) solutions for the peculiar procedure for generating / achieving [π (Pi)][Pi] that **Matt Parker** presented.
 
 ## Why
-1. In commemoration for the 2017 [Pi Day][Pi Day].
+1. In commemoration for the 2017 [Pi Day].
 2. Having fun.
 3. No apparent logic reason.
 
@@ -17,14 +16,9 @@ We can generate lots of numbers and calculate π by:
 
 Watch [Matt Parker] generating π from 1,000 random numbers by rolling a dice on [YouTube][Generating π from 1,000 random numbers]
 
-[Pi]: https://en.wikipedia.org/wiki/Pi
-[Pi Day]: https://en.wikipedia.org/wiki/Pi_Day
-[Coprime integers]: https://en.wikipedia.org/wiki/Coprime_integers
-[Proof and demonstration]: http://www.cut-the-knot.org/m/Probability/TwoCoprime.shtml
-[YouTube]: https://www.youtube.com/watch?v=ESU4KdRLzu0
-[Matt Parker]: http://standupmaths.com/
-
 ## Aknologments
+All solutions are from these users (in no particular order), some are quite efficient others not so much. Regardless thanks very much.
+
 Matt Parker
 Torfi Þorgrímsson
 TheWioreks
@@ -37,3 +31,20 @@ Georgi Iliev
 Gerard Kool
 Pedro Sousa
 Bengineer8
+梁瑋瀚
+TheWioreks
+LaugeRønberg
+Justin Murtagh
+Ando Bando
+Chris Pedro
+Alex Walters
+Mark Johnson
+Clark Cox
+
+
+[Pi]: https://en.wikipedia.org/wiki/Pi
+[Pi Day]: https://en.wikipedia.org/wiki/Pi_Day
+[Coprime integers]: https://en.wikipedia.org/wiki/Coprime_integers
+[Proof and demonstration]: http://www.cut-the-knot.org/m/Probability/TwoCoprime.shtml
+[video]: https://www.youtube.com/watch?v=ESU4KdRLzu0
+[Matt Parker]: http://standupmaths.com/
